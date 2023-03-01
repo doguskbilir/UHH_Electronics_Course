@@ -1,9 +1,3 @@
-# Electronics Course Git Demo
+# UHH/CEN Electronics Course
 
-1. Initialize a repository in the present working directory via
-
-```bash
-git init
-```
-
-2. You should first add files to be tracked and then stage them for your commit.
+This repository contains the material, assignments and future projects related to the *Practical Measurement Electronics and Interfaces in ocean Sciences* course from UHH/CEN.
