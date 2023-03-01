@@ -6,3 +6,4 @@
 git init
 ```
 
+2. You should first add files to be tracked and then stage them for your commit.
